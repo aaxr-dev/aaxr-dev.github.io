@@ -1,0 +1,27 @@
+# Project team members listed below will appear on the /team page
+
+- name: Abel Najih
+  role: Software Engineer
+  description: Who am I
+  orcid: 0000-0000-0000-0000
+  researchgate: researchgate_username
+  googlescholar: googlescholar_username
+  bluesky: bluesky_username.bsky.social
+  mastodon: https://mastodon.social/@mastodon_username
+  twitter: twitter_username
+  linkedin: linkedin_username
+  github: github_username
+  email: name@example.com
+
+- name: Oleksandr Voronov
+  role: Software Engineer
+  image: /assets/team/oleksandr-voronov.jpg
+  bluesky: ovoronov.bsky.social
+  linkedin: oleksandrvoronov
+  github: a-voronov
+  link: https://a-voronov.github.io
+  description: >
+    A software engineer with over a decade of experience across various technologies - primarily mobile.
+    MSc in Software Engineering.
+    Passionate about exploring the world through the lens of computer interfaces.
+    Currently focused on Computer Vision, Computer Graphics and Augmented Reality.
